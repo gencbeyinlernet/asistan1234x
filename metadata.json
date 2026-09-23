@@ -1,0 +1,6 @@
+{
+  "name": "Novarge-smm Asistan",
+  "description": "KDV beyannamesi otomatik kontrol, e-belge entegratör muhasebeleştirme, muavin-mizan denetimi ve yapay zekâ destekli SMMM asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
